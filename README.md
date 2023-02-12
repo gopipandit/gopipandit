@@ -1,11 +1,3 @@
-- 👋 Hi, I’m `Gopi Pandit`
-- 👀 I’m interested in ***Data Science***...
-- 🌱 I’m currently learning Python, ML,DL and many more...
-- 💞️ I’m looking to collaborate on anyonce with Same interest...
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/gopipandit/)
-
-
-
 # 💫 About Me:
 - 👋 Hi, I’m `Gopi Pandit`<br>- 👀 I’m interested in ***Data Science***...<br>- 🌱 I’m currently learning Python, ML,DL and many more...<br>- 💞️ I’m looking to collaborate on anyonce with Same interest...<br>- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/gopipandit/)<br>
 
