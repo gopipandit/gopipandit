@@ -1,6 +1,7 @@
-![Banner Image]([./banner.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsase.org%2Fnews%2Fetienne-ollion-on-ai%2Fattachment%2Fbanner-size-ai-and-machine-learning%2F&psig=AOvVaw2EKKVXixrnCbhZ8I555hrA&ust=1676300505309000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOj_yJOgkP0CFQAAAAAdAAAAABAE))
+![logo](https://github.com/gopipandit/gopipandit/blob/main/BANNER-SIZE-AI-and-Machine-Learning.jpg)
 
-
+<h1 align="center">Hi 👋, I'm Gopi Pandit</h1>
+<h3 align="center">Passionate about Data science</h3>
 
 
 # 💫 About Me:
