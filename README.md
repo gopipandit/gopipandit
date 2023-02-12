@@ -1,3 +1,8 @@
+![Banner Image]([./banner.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsase.org%2Fnews%2Fetienne-ollion-on-ai%2Fattachment%2Fbanner-size-ai-and-machine-learning%2F&psig=AOvVaw2EKKVXixrnCbhZ8I555hrA&ust=1676300505309000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOj_yJOgkP0CFQAAAAAdAAAAABAE))
+
+
+
+
 # 💫 About Me:
 - 👋 Hi, I’m `Gopi Pandit`<br>- 👀 I’m interested in ***Data Science***...<br>- 🌱 I’m currently learning Python, ML,DL and many more...<br>- 💞️ I’m looking to collaborate on anyonce with Same interest...<br>- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/gopipandit/)<br>
 
